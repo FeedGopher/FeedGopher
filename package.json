@@ -1,0 +1,24 @@
+{
+  "name": "FeedGopher",
+  "version": "0.0.0",
+  "description": "An offline-capable Atom reader Chrome extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FeedGopher/FeedGopher"
+  },
+  "keywords": [
+    "ATOM",
+    "RSS",
+    "'feed",
+    "reader'"
+  ],
+  "author": "Jonathan Krone <jkrone@vt.edu>",
+  "license": "Mit-license",
+  "bugs": {
+    "url": "https://github.com/FeedGopher/FeedGopher/issues"
+  }
+}
